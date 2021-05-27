@@ -25,15 +25,15 @@
 
 ## What scheduling tools are avaliable for project manager and team to plan the project activities?
 1. ***Work breakdown structure (WBS)*** is essential as part of a project’s lifecycle and timeline.  
-Ad: Captures tasks to complete the project; Identifies tasks relationships; Easy to read in the table format; Makes possible to visualize a complex project; Ties the project together. 
+Ad: Captures tasks to complete the project; Identifies tasks relationships; Easy to read in the table format; Makes possible to visualize a complex project; Ties the project together.   
 Dis: Time consuming; Potential inconsistency between table & effective schedule; Potential discrepancy between projected & effective resources; Some tasks may be constrained by factors other than predecessors; 
-2. ***Program evaluation review technique (PERT)*** or network diagrams is essentially a flowchart of the project tasks
+2. ***Program evaluation review technique (PERT)*** or network diagrams is essentially a flowchart of the project tasks  
 Ad: Excellent visual & interactive graphic to demonstrate the schedule; Participative decision making; Joint risk identification & response strategy; Negotiated concessions; Improved team ownership; Shows Critical Path; Eliminates idle time   
 Dis: Difficult to read if the project is large; No timeline; Difficult to monitor & report performance; Not always easy to understand; Limited amount of information that can display. 
 3. ***Critical path analysis (CPA)*** is used to determine what the shortest time to complete the project.  
 It offers a visual representation of the project activities, presents the time to complete the tasks and the overall project and tracks of critical activities.
 4. ***Gantt chart*** is excellent for tracking progress or activity for tasks once they have been scheduled.  
-Ad: Illustrates task duration; Clarifies the 4 task relationship types; Ideal for monitoring actual progress to date; Identifies the critical path/s; Easy to allocate resources; Easy to read from top down & from left to right; Illustrates the application of lead & lag time. 
+Ad: Illustrates task duration; Clarifies the 4 task relationship types; Ideal for monitoring actual progress to date; Identifies the critical path/s; Easy to allocate resources; Easy to read from top down & from left to right; Illustrates the application of lead & lag time.  
 Dis: Difficult to read due to the amount of information; Time consuming to update & report; Need software to avoid excessive time spent drawing & reviewing schedules; Often bears little resemblance to reality; Easily outdated given the frequency of scope changes & revisions
 
 
